@@ -1,0 +1,12 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\bin\Debug\Lesson02_RichTextBoxes.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\bin\Debug\Lesson02_RichTextBoxes.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\bin\Debug\Lesson02_RichTextBoxes.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.RichTextBoxForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.pdb
+C:\Users\Mitchell\Desktop\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\bin\Debug\Lesson02_RichTextBoxes.exe.config
+C:\Users\Mitchell\Desktop\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.exe
+C:\Users\Mitchell\Desktop\Lesson02_RichTextBoxes\Lesson02_RichTextBoxes\obj\Debug\Lesson02_RichTextBoxes.pdb
