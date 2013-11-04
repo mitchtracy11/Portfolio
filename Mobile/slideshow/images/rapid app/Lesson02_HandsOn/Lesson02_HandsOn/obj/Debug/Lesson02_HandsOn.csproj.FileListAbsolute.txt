@@ -1,0 +1,15 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\bin\Debug\Lesson02_HandsOn.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\bin\Debug\Lesson02_HandsOn.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\bin\Debug\Lesson02_HandsOn.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.MainForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.pdb
+C:\Users\Mitchell\Desktop\Lesson02_HandsOn\Lesson02_HandsOn\bin\Debug\Lesson02_HandsOn.exe.config
+C:\Users\Mitchell\Desktop\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.exe
+C:\Users\Mitchell\Desktop\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson02_HandsOn\Lesson02_HandsOn\bin\Debug\Lesson02_HandsOn.exe.config
+C:\Users\Mitchell\Desktop\rapid app\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.exe
+C:\Users\Mitchell\Desktop\rapid app\Lesson02_HandsOn\Lesson02_HandsOn\obj\Debug\Lesson02_HandsOn.pdb

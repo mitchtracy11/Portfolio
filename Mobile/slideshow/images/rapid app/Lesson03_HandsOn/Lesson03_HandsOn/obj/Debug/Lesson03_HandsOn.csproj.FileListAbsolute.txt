@@ -1,0 +1,27 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.BookSaleForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.pdb
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.exe.config
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.exe
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.pdb
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.exe
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.pdb
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.BookSaleForm.resources
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.Properties.Resources.resources
+C:\Users\Mitchell\Desktop\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.csproj.GenerateResource.Cache
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.exe.config
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.exe
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.exe
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\bin\Debug\Lesson03_HandsOn.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.BookSaleForm.resources
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.Properties.Resources.resources
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_HandsOn\Lesson03_HandsOn\obj\Debug\Lesson03_HandsOn.csproj.GenerateResource.Cache

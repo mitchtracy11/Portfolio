@@ -1,0 +1,9 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\bin\Debug\Lesson02_Colors.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\bin\Debug\Lesson02_Colors.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\bin\Debug\Lesson02_Colors.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\obj\Debug\Lesson02_Colors.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\obj\Debug\Lesson02_Colors.ColorsForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\obj\Debug\Lesson02_Colors.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\obj\Debug\Lesson02_Colors.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\obj\Debug\Lesson02_Colors.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_Colors\Lesson02_Colors\obj\Debug\Lesson02_Colors.pdb
