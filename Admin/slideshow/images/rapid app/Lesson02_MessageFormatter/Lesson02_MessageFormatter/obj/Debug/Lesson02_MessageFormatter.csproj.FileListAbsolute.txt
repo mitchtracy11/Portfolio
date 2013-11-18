@@ -1,0 +1,9 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb

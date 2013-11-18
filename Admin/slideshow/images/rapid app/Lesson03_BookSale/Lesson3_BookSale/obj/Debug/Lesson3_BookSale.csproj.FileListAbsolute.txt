@@ -1,0 +1,18 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\bin\Debug\Lesson3_BookSale.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\bin\Debug\Lesson3_BookSale.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\bin\Debug\Lesson3_BookSale.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.BookSaleForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson3_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\bin\Debug\Lesson3_BookSale.exe.config
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.exe
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\bin\Debug\Lesson3_BookSale.exe
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\bin\Debug\Lesson3_BookSale.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.BookSaleForm.resources
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.Properties.Resources.resources
+C:\Users\Mitchell\Desktop\rapid app\Lesson03_BookSale\Lesson3_BookSale\obj\Debug\Lesson3_BookSale.csproj.GenerateResource.Cache
