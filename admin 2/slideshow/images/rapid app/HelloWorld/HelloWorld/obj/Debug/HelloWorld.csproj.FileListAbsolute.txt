@@ -1,0 +1,18 @@
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\tom\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloForm.resources
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Mitchell\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache

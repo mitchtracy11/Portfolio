@@ -1,0 +1,21 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\bin\Debug\Lesson01HandsOn.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\bin\Debug\Lesson01HandsOn.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\bin\Debug\Lesson01HandsOn.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.MainForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.pdb
+C:\Users\Mitchell\Desktop\Lesson01HandsOn\Lesson01HandsOn\bin\Debug\Lesson01HandsOn.exe.config
+C:\Users\Mitchell\Desktop\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.exe
+C:\Users\Mitchell\Desktop\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\bin\Debug\Lesson01HandsOn.exe.config
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.exe
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\bin\Debug\Lesson01HandsOn.exe
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\bin\Debug\Lesson01HandsOn.pdb
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.MainForm.resources
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.Properties.Resources.resources
+C:\Users\Mitchell\Desktop\rapid app\Lesson01HandsOn\Lesson01HandsOn\obj\Debug\Lesson01HandsOn.csproj.GenerateResource.Cache

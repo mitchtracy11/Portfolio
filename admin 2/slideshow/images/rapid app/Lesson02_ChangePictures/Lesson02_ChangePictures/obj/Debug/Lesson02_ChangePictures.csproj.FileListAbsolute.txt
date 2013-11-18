@@ -1,0 +1,9 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\bin\Debug\Lesson02_ChangePictures.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\bin\Debug\Lesson02_ChangePictures.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\bin\Debug\Lesson02_ChangePictures.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\obj\Debug\Lesson02_ChangePictures.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\obj\Debug\Lesson02_ChangePictures.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\obj\Debug\Lesson02_ChangePictures.ResourceForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\obj\Debug\Lesson02_ChangePictures.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\obj\Debug\Lesson02_ChangePictures.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_ChangePictures\Lesson02_ChangePictures\obj\Debug\Lesson02_ChangePictures.pdb
